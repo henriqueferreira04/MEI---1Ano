@@ -1,0 +1,2895 @@
+{
+  "cities": [
+    {
+      "name": "Abha",
+      "avg": 18.0,
+      "std": 4.0,
+      "min": 1.0,
+      "max": 34.7
+    },
+    {
+      "name": "Abidjan",
+      "avg": 26.0,
+      "std": 4.0,
+      "min": 7.1,
+      "max": 42.3
+    },
+    {
+      "name": "Abéché",
+      "avg": 29.4,
+      "std": 4.0,
+      "min": 13.0,
+      "max": 47.8
+    },
+    {
+      "name": "Accra",
+      "avg": 26.4,
+      "std": 4.0,
+      "min": 9.4,
+      "max": 43.7
+    },
+    {
+      "name": "Addis Ababa",
+      "avg": 16.0,
+      "std": 4.0,
+      "min": -2.1,
+      "max": 33.5
+    },
+    {
+      "name": "Adelaide",
+      "avg": 17.3,
+      "std": 4.0,
+      "min": -1.6,
+      "max": 35.1
+    },
+    {
+      "name": "Aden",
+      "avg": 29.1,
+      "std": 4.0,
+      "min": 12.3,
+      "max": 47.0
+    },
+    {
+      "name": "Ahvaz",
+      "avg": 25.4,
+      "std": 4.0,
+      "min": 9.0,
+      "max": 43.2
+    },
+    {
+      "name": "Albuquerque",
+      "avg": 14.0,
+      "std": 4.0,
+      "min": -3.1,
+      "max": 31.6
+    },
+    {
+      "name": "Alexandra",
+      "avg": 11.0,
+      "std": 4.0,
+      "min": -5.9,
+      "max": 27.7
+    },
+    {
+      "name": "Alexandria",
+      "avg": 20.0,
+      "std": 4.0,
+      "min": 3.0,
+      "max": 37.2
+    },
+    {
+      "name": "Algiers",
+      "avg": 18.2,
+      "std": 4.0,
+      "min": 1.5,
+      "max": 34.6
+    },
+    {
+      "name": "Alice Springs",
+      "avg": 21.0,
+      "std": 4.0,
+      "min": 4.2,
+      "max": 38.1
+    },
+    {
+      "name": "Almaty",
+      "avg": 10.0,
+      "std": 4.0,
+      "min": -9.4,
+      "max": 27.6
+    },
+    {
+      "name": "Amsterdam",
+      "avg": 10.2,
+      "std": 4.0,
+      "min": -7.0,
+      "max": 26.8
+    },
+    {
+      "name": "Anadyr",
+      "avg": -6.9,
+      "std": 4.0,
+      "min": -25.6,
+      "max": 10.6
+    },
+    {
+      "name": "Anchorage",
+      "avg": 2.8,
+      "std": 4.0,
+      "min": -13.2,
+      "max": 20.1
+    },
+    {
+      "name": "Andorra la Vella",
+      "avg": 9.8,
+      "std": 4.0,
+      "min": -6.8,
+      "max": 25.7
+    },
+    {
+      "name": "Ankara",
+      "avg": 12.0,
+      "std": 4.0,
+      "min": -6.3,
+      "max": 30.4
+    },
+    {
+      "name": "Antananarivo",
+      "avg": 17.9,
+      "std": 4.0,
+      "min": 0.2,
+      "max": 34.7
+    },
+    {
+      "name": "Antsiranana",
+      "avg": 25.2,
+      "std": 4.0,
+      "min": 7.0,
+      "max": 41.6
+    },
+    {
+      "name": "Arkhangelsk",
+      "avg": 1.3,
+      "std": 4.0,
+      "min": -21.2,
+      "max": 18.0
+    },
+    {
+      "name": "Ashgabat",
+      "avg": 17.1,
+      "std": 4.0,
+      "min": -1.8,
+      "max": 36.5
+    },
+    {
+      "name": "Asmara",
+      "avg": 15.6,
+      "std": 4.0,
+      "min": -2.0,
+      "max": 33.0
+    },
+    {
+      "name": "Assab",
+      "avg": 30.5,
+      "std": 4.0,
+      "min": 14.5,
+      "max": 47.0
+    },
+    {
+      "name": "Astana",
+      "avg": 3.5,
+      "std": 4.0,
+      "min": -13.1,
+      "max": 21.0
+    },
+    {
+      "name": "Athens",
+      "avg": 19.2,
+      "std": 4.0,
+      "min": 1.7,
+      "max": 37.0
+    },
+    {
+      "name": "Atlanta",
+      "avg": 17.0,
+      "std": 4.0,
+      "min": 1.2,
+      "max": 33.5
+    },
+    {
+      "name": "Auckland",
+      "avg": 15.2,
+      "std": 4.0,
+      "min": -2.8,
+      "max": 33.1
+    },
+    {
+      "name": "Austin",
+      "avg": 20.7,
+      "std": 4.0,
+      "min": 1.5,
+      "max": 36.9
+    },
+    {
+      "name": "Baghdad",
+      "avg": 22.8,
+      "std": 4.0,
+      "min": 6.8,
+      "max": 42.6
+    },
+    {
+      "name": "Baguio",
+      "avg": 19.5,
+      "std": 4.0,
+      "min": 2.9,
+      "max": 36.0
+    },
+    {
+      "name": "Baku",
+      "avg": 15.1,
+      "std": 4.0,
+      "min": -1.4,
+      "max": 31.5
+    },
+    {
+      "name": "Baltimore",
+      "avg": 13.1,
+      "std": 4.0,
+      "min": -3.1,
+      "max": 30.2
+    },
+    {
+      "name": "Bamako",
+      "avg": 27.8,
+      "std": 4.0,
+      "min": 10.5,
+      "max": 47.2
+    },
+    {
+      "name": "Bangkok",
+      "avg": 28.6,
+      "std": 4.0,
+      "min": 10.0,
+      "max": 45.6
+    },
+    {
+      "name": "Bangui",
+      "avg": 26.0,
+      "std": 4.0,
+      "min": 9.9,
+      "max": 43.9
+    },
+    {
+      "name": "Banjul",
+      "avg": 26.0,
+      "std": 4.0,
+      "min": 9.1,
+      "max": 43.7
+    },
+    {
+      "name": "Barcelona",
+      "avg": 18.2,
+      "std": 4.0,
+      "min": -1.7,
+      "max": 35.4
+    },
+    {
+      "name": "Bata",
+      "avg": 25.1,
+      "std": 4.0,
+      "min": 8.4,
+      "max": 41.2
+    },
+    {
+      "name": "Batumi",
+      "avg": 14.0,
+      "std": 4.0,
+      "min": -3.0,
+      "max": 32.6
+    },
+    {
+      "name": "Beijing",
+      "avg": 12.9,
+      "std": 4.0,
+      "min": -3.5,
+      "max": 30.1
+    },
+    {
+      "name": "Beirut",
+      "avg": 20.9,
+      "std": 4.0,
+      "min": 2.9,
+      "max": 37.5
+    },
+    {
+      "name": "Belgrade",
+      "avg": 12.5,
+      "std": 4.0,
+      "min": -4.2,
+      "max": 31.4
+    },
+    {
+      "name": "Belize City",
+      "avg": 26.7,
+      "std": 4.0,
+      "min": 9.7,
+      "max": 43.6
+    },
+    {
+      "name": "Benghazi",
+      "avg": 19.9,
+      "std": 4.0,
+      "min": 2.4,
+      "max": 36.4
+    },
+    {
+      "name": "Bergen",
+      "avg": 7.7,
+      "std": 4.0,
+      "min": -8.2,
+      "max": 24.5
+    },
+    {
+      "name": "Berlin",
+      "avg": 10.3,
+      "std": 4.0,
+      "min": -10.8,
+      "max": 27.7
+    },
+    {
+      "name": "Bilbao",
+      "avg": 14.7,
+      "std": 4.0,
+      "min": -4.5,
+      "max": 32.6
+    },
+    {
+      "name": "Birao",
+      "avg": 26.5,
+      "std": 4.0,
+      "min": 10.1,
+      "max": 42.7
+    },
+    {
+      "name": "Bishkek",
+      "avg": 11.3,
+      "std": 4.0,
+      "min": -7.0,
+      "max": 31.1
+    },
+    {
+      "name": "Bissau",
+      "avg": 27.0,
+      "std": 4.0,
+      "min": 8.6,
+      "max": 43.8
+    },
+    {
+      "name": "Blantyre",
+      "avg": 22.2,
+      "std": 4.0,
+      "min": 6.2,
+      "max": 39.7
+    },
+    {
+      "name": "Bloemfontein",
+      "avg": 15.6,
+      "std": 4.0,
+      "min": -0.9,
+      "max": 31.9
+    },
+    {
+      "name": "Boise",
+      "avg": 11.4,
+      "std": 4.0,
+      "min": -6.2,
+      "max": 28.7
+    },
+    {
+      "name": "Bordeaux",
+      "avg": 14.2,
+      "std": 4.0,
+      "min": -3.5,
+      "max": 30.9
+    },
+    {
+      "name": "Bosaso",
+      "avg": 30.0,
+      "std": 4.0,
+      "min": 12.6,
+      "max": 46.6
+    },
+    {
+      "name": "Boston",
+      "avg": 10.9,
+      "std": 4.0,
+      "min": -5.2,
+      "max": 29.1
+    },
+    {
+      "name": "Bouaké",
+      "avg": 26.0,
+      "std": 4.0,
+      "min": 8.4,
+      "max": 41.8
+    },
+    {
+      "name": "Bratislava",
+      "avg": 10.5,
+      "std": 4.0,
+      "min": -7.6,
+      "max": 28.5
+    },
+    {
+      "name": "Brazzaville",
+      "avg": 25.0,
+      "std": 4.0,
+      "min": 9.2,
+      "max": 41.1
+    },
+    {
+      "name": "Bridgetown",
+      "avg": 27.0,
+      "std": 4.0,
+      "min": 10.0,
+      "max": 43.2
+    },
+    {
+      "name": "Brisbane",
+      "avg": 21.4,
+      "std": 4.0,
+      "min": 5.0,
+      "max": 38.4
+    },
+    {
+      "name": "Brussels",
+      "avg": 10.5,
+      "std": 4.0,
+      "min": -6.5,
+      "max": 27.4
+    },
+    {
+      "name": "Bucharest",
+      "avg": 10.8,
+      "std": 4.0,
+      "min": -7.0,
+      "max": 28.2
+    },
+    {
+      "name": "Budapest",
+      "avg": 11.3,
+      "std": 4.0,
+      "min": -5.4,
+      "max": 27.6
+    },
+    {
+      "name": "Bujumbura",
+      "avg": 23.8,
+      "std": 4.0,
+      "min": 7.1,
+      "max": 41.7
+    },
+    {
+      "name": "Bulawayo",
+      "avg": 18.9,
+      "std": 4.0,
+      "min": 1.3,
+      "max": 36.2
+    },
+    {
+      "name": "Burnie",
+      "avg": 13.1,
+      "std": 4.0,
+      "min": -5.9,
+      "max": 29.9
+    },
+    {
+      "name": "Busan",
+      "avg": 15.0,
+      "std": 4.0,
+      "min": -3.8,
+      "max": 33.4
+    },
+    {
+      "name": "Cabo San Lucas",
+      "avg": 23.9,
+      "std": 4.0,
+      "min": 6.8,
+      "max": 40.3
+    },
+    {
+      "name": "Cairns",
+      "avg": 25.0,
+      "std": 4.0,
+      "min": 8.2,
+      "max": 42.0
+    },
+    {
+      "name": "Cairo",
+      "avg": 21.4,
+      "std": 4.0,
+      "min": 4.2,
+      "max": 38.6
+    },
+    {
+      "name": "Calgary",
+      "avg": 4.4,
+      "std": 4.0,
+      "min": -14.2,
+      "max": 23.7
+    },
+    {
+      "name": "Canberra",
+      "avg": 13.1,
+      "std": 4.0,
+      "min": -5.3,
+      "max": 29.9
+    },
+    {
+      "name": "Cape Town",
+      "avg": 16.2,
+      "std": 4.0,
+      "min": -0.1,
+      "max": 33.0
+    },
+    {
+      "name": "Changsha",
+      "avg": 17.4,
+      "std": 4.0,
+      "min": 1.3,
+      "max": 35.4
+    },
+    {
+      "name": "Charlotte",
+      "avg": 16.1,
+      "std": 4.0,
+      "min": -0.8,
+      "max": 33.2
+    },
+    {
+      "name": "Chiang Mai",
+      "avg": 25.8,
+      "std": 4.0,
+      "min": 8.5,
+      "max": 43.6
+    },
+    {
+      "name": "Chicago",
+      "avg": 9.8,
+      "std": 4.0,
+      "min": -7.3,
+      "max": 25.7
+    },
+    {
+      "name": "Chihuahua",
+      "avg": 18.6,
+      "std": 4.0,
+      "min": 1.3,
+      "max": 35.7
+    },
+    {
+      "name": "Chittagong",
+      "avg": 25.9,
+      "std": 4.0,
+      "min": 8.5,
+      "max": 42.6
+    },
+    {
+      "name": "Chișinău",
+      "avg": 10.2,
+      "std": 4.0,
+      "min": -7.9,
+      "max": 27.5
+    },
+    {
+      "name": "Chongqing",
+      "avg": 18.6,
+      "std": 4.0,
+      "min": 1.6,
+      "max": 34.9
+    },
+    {
+      "name": "Christchurch",
+      "avg": 12.2,
+      "std": 4.0,
+      "min": -6.2,
+      "max": 30.4
+    },
+    {
+      "name": "City of San Marino",
+      "avg": 11.8,
+      "std": 4.0,
+      "min": -4.9,
+      "max": 28.8
+    },
+    {
+      "name": "Colombo",
+      "avg": 27.4,
+      "std": 4.0,
+      "min": 10.4,
+      "max": 45.5
+    },
+    {
+      "name": "Columbus",
+      "avg": 11.7,
+      "std": 4.0,
+      "min": -5.5,
+      "max": 29.7
+    },
+    {
+      "name": "Conakry",
+      "avg": 26.4,
+      "std": 4.0,
+      "min": 9.5,
+      "max": 44.2
+    },
+    {
+      "name": "Copenhagen",
+      "avg": 9.1,
+      "std": 4.0,
+      "min": -11.4,
+      "max": 26.0
+    },
+    {
+      "name": "Cotonou",
+      "avg": 27.2,
+      "std": 4.0,
+      "min": 9.6,
+      "max": 44.0
+    },
+    {
+      "name": "Cracow",
+      "avg": 9.3,
+      "std": 4.0,
+      "min": -6.7,
+      "max": 26.7
+    },
+    {
+      "name": "Da Lat",
+      "avg": 17.9,
+      "std": 4.0,
+      "min": 0.4,
+      "max": 35.7
+    },
+    {
+      "name": "Da Nang",
+      "avg": 25.8,
+      "std": 4.0,
+      "min": 6.5,
+      "max": 46.0
+    },
+    {
+      "name": "Dakar",
+      "avg": 24.0,
+      "std": 4.0,
+      "min": 6.7,
+      "max": 43.7
+    },
+    {
+      "name": "Dallas",
+      "avg": 19.0,
+      "std": 4.0,
+      "min": -0.2,
+      "max": 35.2
+    },
+    {
+      "name": "Damascus",
+      "avg": 17.0,
+      "std": 4.0,
+      "min": 0.3,
+      "max": 36.1
+    },
+    {
+      "name": "Dampier",
+      "avg": 26.4,
+      "std": 4.0,
+      "min": 6.9,
+      "max": 45.8
+    },
+    {
+      "name": "Dar es Salaam",
+      "avg": 25.8,
+      "std": 4.0,
+      "min": 10.1,
+      "max": 42.5
+    },
+    {
+      "name": "Darwin",
+      "avg": 27.6,
+      "std": 4.0,
+      "min": 8.5,
+      "max": 43.7
+    },
+    {
+      "name": "Denpasar",
+      "avg": 23.7,
+      "std": 4.0,
+      "min": 6.5,
+      "max": 40.5
+    },
+    {
+      "name": "Denver",
+      "avg": 10.4,
+      "std": 4.0,
+      "min": -7.7,
+      "max": 27.6
+    },
+    {
+      "name": "Detroit",
+      "avg": 10.0,
+      "std": 4.0,
+      "min": -5.8,
+      "max": 29.2
+    },
+    {
+      "name": "Dhaka",
+      "avg": 25.9,
+      "std": 4.0,
+      "min": 8.6,
+      "max": 44.8
+    },
+    {
+      "name": "Dikson",
+      "avg": -11.1,
+      "std": 4.0,
+      "min": -30.0,
+      "max": 6.0
+    },
+    {
+      "name": "Dili",
+      "avg": 26.6,
+      "std": 4.0,
+      "min": 10.4,
+      "max": 43.3
+    },
+    {
+      "name": "Djibouti",
+      "avg": 29.9,
+      "std": 4.0,
+      "min": 13.6,
+      "max": 48.1
+    },
+    {
+      "name": "Dodoma",
+      "avg": 22.7,
+      "std": 4.0,
+      "min": 5.4,
+      "max": 40.6
+    },
+    {
+      "name": "Dolisie",
+      "avg": 24.0,
+      "std": 4.0,
+      "min": 7.4,
+      "max": 40.3
+    },
+    {
+      "name": "Douala",
+      "avg": 26.7,
+      "std": 4.0,
+      "min": 10.0,
+      "max": 46.2
+    },
+    {
+      "name": "Dubai",
+      "avg": 26.9,
+      "std": 4.0,
+      "min": 10.0,
+      "max": 44.3
+    },
+    {
+      "name": "Dublin",
+      "avg": 9.8,
+      "std": 4.0,
+      "min": -6.5,
+      "max": 28.1
+    },
+    {
+      "name": "Dunedin",
+      "avg": 11.1,
+      "std": 4.0,
+      "min": -8.9,
+      "max": 30.1
+    },
+    {
+      "name": "Durban",
+      "avg": 20.6,
+      "std": 4.0,
+      "min": 2.1,
+      "max": 38.4
+    },
+    {
+      "name": "Dushanbe",
+      "avg": 14.7,
+      "std": 4.0,
+      "min": -1.9,
+      "max": 31.9
+    },
+    {
+      "name": "Edinburgh",
+      "avg": 9.3,
+      "std": 4.0,
+      "min": -9.8,
+      "max": 25.1
+    },
+    {
+      "name": "Edmonton",
+      "avg": 4.2,
+      "std": 4.0,
+      "min": -12.9,
+      "max": 22.2
+    },
+    {
+      "name": "El Paso",
+      "avg": 18.1,
+      "std": 4.0,
+      "min": 0.0,
+      "max": 36.1
+    },
+    {
+      "name": "Entebbe",
+      "avg": 21.0,
+      "std": 4.0,
+      "min": 4.4,
+      "max": 38.0
+    },
+    {
+      "name": "Erbil",
+      "avg": 19.5,
+      "std": 4.0,
+      "min": -1.0,
+      "max": 36.4
+    },
+    {
+      "name": "Erzurum",
+      "avg": 5.1,
+      "std": 4.0,
+      "min": -11.8,
+      "max": 25.0
+    },
+    {
+      "name": "Fairbanks",
+      "avg": -2.3,
+      "std": 4.0,
+      "min": -20.0,
+      "max": 15.7
+    },
+    {
+      "name": "Fianarantsoa",
+      "avg": 17.9,
+      "std": 4.0,
+      "min": 1.7,
+      "max": 34.3
+    },
+    {
+      "name": "Flores,  Petén",
+      "avg": 26.4,
+      "std": 4.0,
+      "min": 7.0,
+      "max": 41.8
+    },
+    {
+      "name": "Frankfurt",
+      "avg": 10.6,
+      "std": 4.0,
+      "min": -7.6,
+      "max": 27.3
+    },
+    {
+      "name": "Fresno",
+      "avg": 17.9,
+      "std": 4.0,
+      "min": 0.2,
+      "max": 35.3
+    },
+    {
+      "name": "Fukuoka",
+      "avg": 17.0,
+      "std": 4.0,
+      "min": 0.9,
+      "max": 35.1
+    },
+    {
+      "name": "Gaborone",
+      "avg": 21.0,
+      "std": 4.0,
+      "min": 3.6,
+      "max": 38.9
+    },
+    {
+      "name": "Gabès",
+      "avg": 19.5,
+      "std": 4.0,
+      "min": 0.4,
+      "max": 36.9
+    },
+    {
+      "name": "Gagnoa",
+      "avg": 26.0,
+      "std": 4.0,
+      "min": 8.2,
+      "max": 43.9
+    },
+    {
+      "name": "Gangtok",
+      "avg": 15.2,
+      "std": 4.0,
+      "min": -2.9,
+      "max": 31.5
+    },
+    {
+      "name": "Garissa",
+      "avg": 29.3,
+      "std": 4.0,
+      "min": 13.8,
+      "max": 46.3
+    },
+    {
+      "name": "Garoua",
+      "avg": 28.3,
+      "std": 4.0,
+      "min": 9.3,
+      "max": 47.1
+    },
+    {
+      "name": "George Town",
+      "avg": 27.9,
+      "std": 4.0,
+      "min": 11.2,
+      "max": 44.4
+    },
+    {
+      "name": "Ghanzi",
+      "avg": 21.4,
+      "std": 4.0,
+      "min": 5.0,
+      "max": 38.4
+    },
+    {
+      "name": "Gjoa Haven",
+      "avg": -14.4,
+      "std": 4.0,
+      "min": -32.2,
+      "max": 2.0
+    },
+    {
+      "name": "Guadalajara",
+      "avg": 20.9,
+      "std": 4.0,
+      "min": 3.8,
+      "max": 41.2
+    },
+    {
+      "name": "Guangzhou",
+      "avg": 22.4,
+      "std": 4.0,
+      "min": 4.5,
+      "max": 39.8
+    },
+    {
+      "name": "Guatemala City",
+      "avg": 20.4,
+      "std": 4.0,
+      "min": 3.0,
+      "max": 38.6
+    },
+    {
+      "name": "Halifax",
+      "avg": 7.5,
+      "std": 4.0,
+      "min": -8.8,
+      "max": 25.0
+    },
+    {
+      "name": "Hamburg",
+      "avg": 9.7,
+      "std": 4.0,
+      "min": -6.4,
+      "max": 28.7
+    },
+    {
+      "name": "Hamilton",
+      "avg": 13.8,
+      "std": 4.0,
+      "min": -4.2,
+      "max": 31.4
+    },
+    {
+      "name": "Hanga Roa",
+      "avg": 20.5,
+      "std": 4.0,
+      "min": 4.2,
+      "max": 38.7
+    },
+    {
+      "name": "Hanoi",
+      "avg": 23.6,
+      "std": 4.0,
+      "min": 3.7,
+      "max": 39.9
+    },
+    {
+      "name": "Harare",
+      "avg": 18.4,
+      "std": 4.0,
+      "min": 0.7,
+      "max": 34.8
+    },
+    {
+      "name": "Harbin",
+      "avg": 5.0,
+      "std": 4.0,
+      "min": -12.9,
+      "max": 21.8
+    },
+    {
+      "name": "Hargeisa",
+      "avg": 21.7,
+      "std": 4.0,
+      "min": 5.1,
+      "max": 39.5
+    },
+    {
+      "name": "Hat Yai",
+      "avg": 27.0,
+      "std": 4.0,
+      "min": 8.8,
+      "max": 43.3
+    },
+    {
+      "name": "Havana",
+      "avg": 25.2,
+      "std": 4.0,
+      "min": 8.1,
+      "max": 42.9
+    },
+    {
+      "name": "Helsinki",
+      "avg": 5.9,
+      "std": 4.0,
+      "min": -12.1,
+      "max": 24.5
+    },
+    {
+      "name": "Heraklion",
+      "avg": 18.9,
+      "std": 4.0,
+      "min": 2.8,
+      "max": 34.6
+    },
+    {
+      "name": "Hiroshima",
+      "avg": 16.3,
+      "std": 4.0,
+      "min": -0.1,
+      "max": 32.4
+    },
+    {
+      "name": "Ho Chi Minh City",
+      "avg": 27.4,
+      "std": 4.0,
+      "min": 10.9,
+      "max": 44.7
+    },
+    {
+      "name": "Hobart",
+      "avg": 12.7,
+      "std": 4.0,
+      "min": -3.8,
+      "max": 29.4
+    },
+    {
+      "name": "Hong Kong",
+      "avg": 23.3,
+      "std": 4.0,
+      "min": 5.7,
+      "max": 44.8
+    },
+    {
+      "name": "Honiara",
+      "avg": 26.5,
+      "std": 4.0,
+      "min": 7.2,
+      "max": 43.4
+    },
+    {
+      "name": "Honolulu",
+      "avg": 25.4,
+      "std": 4.0,
+      "min": 7.1,
+      "max": 43.6
+    },
+    {
+      "name": "Houston",
+      "avg": 20.8,
+      "std": 4.0,
+      "min": 1.6,
+      "max": 38.8
+    },
+    {
+      "name": "Ifrane",
+      "avg": 11.4,
+      "std": 4.0,
+      "min": -4.7,
+      "max": 29.3
+    },
+    {
+      "name": "Indianapolis",
+      "avg": 11.8,
+      "std": 4.0,
+      "min": -4.1,
+      "max": 28.6
+    },
+    {
+      "name": "Iqaluit",
+      "avg": -9.3,
+      "std": 4.0,
+      "min": -28.3,
+      "max": 6.7
+    },
+    {
+      "name": "Irkutsk",
+      "avg": 1.0,
+      "std": 4.0,
+      "min": -17.3,
+      "max": 18.4
+    },
+    {
+      "name": "Istanbul",
+      "avg": 13.9,
+      "std": 4.0,
+      "min": -2.9,
+      "max": 32.0
+    },
+    {
+      "name": "Jacksonville",
+      "avg": 20.3,
+      "std": 4.0,
+      "min": 1.2,
+      "max": 37.3
+    },
+    {
+      "name": "Jakarta",
+      "avg": 26.7,
+      "std": 4.0,
+      "min": 9.7,
+      "max": 43.8
+    },
+    {
+      "name": "Jayapura",
+      "avg": 27.0,
+      "std": 4.0,
+      "min": 8.7,
+      "max": 47.0
+    },
+    {
+      "name": "Jerusalem",
+      "avg": 18.3,
+      "std": 4.0,
+      "min": 0.7,
+      "max": 35.4
+    },
+    {
+      "name": "Johannesburg",
+      "avg": 15.5,
+      "std": 4.0,
+      "min": -1.1,
+      "max": 31.7
+    },
+    {
+      "name": "Jos",
+      "avg": 22.8,
+      "std": 4.0,
+      "min": 6.5,
+      "max": 43.7
+    },
+    {
+      "name": "Juba",
+      "avg": 27.8,
+      "std": 4.0,
+      "min": 10.0,
+      "max": 44.4
+    },
+    {
+      "name": "Kabul",
+      "avg": 12.1,
+      "std": 4.0,
+      "min": -4.8,
+      "max": 30.8
+    },
+    {
+      "name": "Kampala",
+      "avg": 20.0,
+      "std": 4.0,
+      "min": 3.3,
+      "max": 37.7
+    },
+    {
+      "name": "Kandi",
+      "avg": 27.7,
+      "std": 4.0,
+      "min": 10.7,
+      "max": 45.2
+    },
+    {
+      "name": "Kankan",
+      "avg": 26.5,
+      "std": 4.0,
+      "min": 8.5,
+      "max": 43.5
+    },
+    {
+      "name": "Kano",
+      "avg": 26.4,
+      "std": 4.0,
+      "min": 9.4,
+      "max": 43.8
+    },
+    {
+      "name": "Kansas City",
+      "avg": 12.5,
+      "std": 4.0,
+      "min": -5.8,
+      "max": 30.2
+    },
+    {
+      "name": "Karachi",
+      "avg": 26.0,
+      "std": 4.0,
+      "min": 7.8,
+      "max": 42.9
+    },
+    {
+      "name": "Karonga",
+      "avg": 24.4,
+      "std": 4.0,
+      "min": 7.7,
+      "max": 41.3
+    },
+    {
+      "name": "Kathmandu",
+      "avg": 18.3,
+      "std": 4.0,
+      "min": -0.2,
+      "max": 34.7
+    },
+    {
+      "name": "Khartoum",
+      "avg": 29.9,
+      "std": 4.0,
+      "min": 14.4,
+      "max": 46.8
+    },
+    {
+      "name": "Kingston",
+      "avg": 27.4,
+      "std": 4.0,
+      "min": 10.6,
+      "max": 43.0
+    },
+    {
+      "name": "Kinshasa",
+      "avg": 25.3,
+      "std": 4.0,
+      "min": 7.6,
+      "max": 42.6
+    },
+    {
+      "name": "Kolkata",
+      "avg": 26.7,
+      "std": 4.0,
+      "min": 7.9,
+      "max": 42.6
+    },
+    {
+      "name": "Kuala Lumpur",
+      "avg": 27.3,
+      "std": 4.0,
+      "min": 11.7,
+      "max": 45.8
+    },
+    {
+      "name": "Kumasi",
+      "avg": 26.0,
+      "std": 4.0,
+      "min": 10.1,
+      "max": 43.0
+    },
+    {
+      "name": "Kunming",
+      "avg": 15.7,
+      "std": 4.0,
+      "min": -1.7,
+      "max": 33.1
+    },
+    {
+      "name": "Kuopio",
+      "avg": 3.4,
+      "std": 4.0,
+      "min": -13.4,
+      "max": 21.1
+    },
+    {
+      "name": "Kuwait City",
+      "avg": 25.7,
+      "std": 4.0,
+      "min": 7.8,
+      "max": 41.8
+    },
+    {
+      "name": "Kyiv",
+      "avg": 8.4,
+      "std": 4.0,
+      "min": -9.2,
+      "max": 26.5
+    },
+    {
+      "name": "Kyoto",
+      "avg": 15.8,
+      "std": 4.0,
+      "min": -1.3,
+      "max": 32.2
+    },
+    {
+      "name": "La Ceiba",
+      "avg": 26.2,
+      "std": 4.0,
+      "min": 9.1,
+      "max": 46.5
+    },
+    {
+      "name": "La Paz",
+      "avg": 23.7,
+      "std": 4.0,
+      "min": 6.2,
+      "max": 40.9
+    },
+    {
+      "name": "Lagos",
+      "avg": 26.8,
+      "std": 4.0,
+      "min": 8.4,
+      "max": 44.0
+    },
+    {
+      "name": "Lahore",
+      "avg": 24.3,
+      "std": 4.0,
+      "min": 6.7,
+      "max": 39.9
+    },
+    {
+      "name": "Lake Havasu City",
+      "avg": 23.7,
+      "std": 4.0,
+      "min": 5.4,
+      "max": 40.6
+    },
+    {
+      "name": "Lake Tekapo",
+      "avg": 8.7,
+      "std": 4.0,
+      "min": -9.7,
+      "max": 25.4
+    },
+    {
+      "name": "Las Palmas de Gran Canaria",
+      "avg": 21.2,
+      "std": 4.0,
+      "min": 4.1,
+      "max": 39.4
+    },
+    {
+      "name": "Las Vegas",
+      "avg": 20.3,
+      "std": 4.0,
+      "min": 3.6,
+      "max": 38.6
+    },
+    {
+      "name": "Launceston",
+      "avg": 13.1,
+      "std": 4.0,
+      "min": -4.3,
+      "max": 30.0
+    },
+    {
+      "name": "Lhasa",
+      "avg": 7.6,
+      "std": 4.0,
+      "min": -10.8,
+      "max": 26.4
+    },
+    {
+      "name": "Libreville",
+      "avg": 25.9,
+      "std": 4.0,
+      "min": 8.8,
+      "max": 42.6
+    },
+    {
+      "name": "Lisbon",
+      "avg": 17.5,
+      "std": 4.0,
+      "min": 0.5,
+      "max": 36.0
+    },
+    {
+      "name": "Livingstone",
+      "avg": 21.8,
+      "std": 4.0,
+      "min": 5.9,
+      "max": 39.1
+    },
+    {
+      "name": "Ljubljana",
+      "avg": 10.9,
+      "std": 4.0,
+      "min": -5.9,
+      "max": 31.4
+    },
+    {
+      "name": "Lodwar",
+      "avg": 29.3,
+      "std": 4.0,
+      "min": 13.0,
+      "max": 47.9
+    },
+    {
+      "name": "Lomé",
+      "avg": 26.9,
+      "std": 4.0,
+      "min": 9.8,
+      "max": 44.2
+    },
+    {
+      "name": "London",
+      "avg": 11.3,
+      "std": 4.0,
+      "min": -6.8,
+      "max": 28.6
+    },
+    {
+      "name": "Los Angeles",
+      "avg": 18.6,
+      "std": 4.0,
+      "min": 1.9,
+      "max": 35.8
+    },
+    {
+      "name": "Louisville",
+      "avg": 13.9,
+      "std": 4.0,
+      "min": -7.7,
+      "max": 31.3
+    },
+    {
+      "name": "Luanda",
+      "avg": 25.8,
+      "std": 4.0,
+      "min": 6.6,
+      "max": 43.9
+    },
+    {
+      "name": "Lubumbashi",
+      "avg": 20.8,
+      "std": 4.0,
+      "min": 1.0,
+      "max": 36.8
+    },
+    {
+      "name": "Lusaka",
+      "avg": 19.9,
+      "std": 4.0,
+      "min": 1.7,
+      "max": 36.7
+    },
+    {
+      "name": "Luxembourg City",
+      "avg": 9.3,
+      "std": 4.0,
+      "min": -9.2,
+      "max": 27.1
+    },
+    {
+      "name": "Lviv",
+      "avg": 7.8,
+      "std": 4.0,
+      "min": -9.5,
+      "max": 25.3
+    },
+    {
+      "name": "Lyon",
+      "avg": 12.5,
+      "std": 4.0,
+      "min": -3.6,
+      "max": 28.7
+    },
+    {
+      "name": "Madrid",
+      "avg": 15.0,
+      "std": 4.0,
+      "min": -5.3,
+      "max": 31.4
+    },
+    {
+      "name": "Mahajanga",
+      "avg": 26.3,
+      "std": 4.0,
+      "min": 8.7,
+      "max": 42.3
+    },
+    {
+      "name": "Makassar",
+      "avg": 26.7,
+      "std": 4.0,
+      "min": 8.7,
+      "max": 44.1
+    },
+    {
+      "name": "Makurdi",
+      "avg": 26.0,
+      "std": 4.0,
+      "min": 7.2,
+      "max": 43.8
+    },
+    {
+      "name": "Malabo",
+      "avg": 26.3,
+      "std": 4.0,
+      "min": 8.1,
+      "max": 43.3
+    },
+    {
+      "name": "Malé",
+      "avg": 28.0,
+      "std": 4.0,
+      "min": 9.8,
+      "max": 44.1
+    },
+    {
+      "name": "Managua",
+      "avg": 27.3,
+      "std": 4.0,
+      "min": 9.0,
+      "max": 45.5
+    },
+    {
+      "name": "Manama",
+      "avg": 26.5,
+      "std": 4.0,
+      "min": 9.1,
+      "max": 43.4
+    },
+    {
+      "name": "Mandalay",
+      "avg": 28.0,
+      "std": 4.0,
+      "min": 9.8,
+      "max": 47.3
+    },
+    {
+      "name": "Mango",
+      "avg": 28.1,
+      "std": 4.0,
+      "min": 9.7,
+      "max": 46.3
+    },
+    {
+      "name": "Manila",
+      "avg": 28.4,
+      "std": 4.0,
+      "min": 11.3,
+      "max": 45.6
+    },
+    {
+      "name": "Maputo",
+      "avg": 22.8,
+      "std": 4.0,
+      "min": 4.9,
+      "max": 40.9
+    },
+    {
+      "name": "Marrakesh",
+      "avg": 19.6,
+      "std": 4.0,
+      "min": 1.2,
+      "max": 36.7
+    },
+    {
+      "name": "Marseille",
+      "avg": 15.8,
+      "std": 4.0,
+      "min": -0.9,
+      "max": 33.1
+    },
+    {
+      "name": "Maun",
+      "avg": 22.4,
+      "std": 4.0,
+      "min": 4.0,
+      "max": 39.9
+    },
+    {
+      "name": "Medan",
+      "avg": 26.5,
+      "std": 4.0,
+      "min": 10.6,
+      "max": 43.2
+    },
+    {
+      "name": "Mek'ele",
+      "avg": 22.7,
+      "std": 4.0,
+      "min": 5.7,
+      "max": 40.7
+    },
+    {
+      "name": "Melbourne",
+      "avg": 15.1,
+      "std": 4.0,
+      "min": -0.9,
+      "max": 31.8
+    },
+    {
+      "name": "Memphis",
+      "avg": 17.2,
+      "std": 4.0,
+      "min": 0.4,
+      "max": 36.0
+    },
+    {
+      "name": "Mexicali",
+      "avg": 23.1,
+      "std": 4.0,
+      "min": 6.7,
+      "max": 39.4
+    },
+    {
+      "name": "Mexico City",
+      "avg": 17.5,
+      "std": 4.0,
+      "min": 0.5,
+      "max": 37.2
+    },
+    {
+      "name": "Miami",
+      "avg": 24.9,
+      "std": 4.0,
+      "min": 6.9,
+      "max": 41.8
+    },
+    {
+      "name": "Milan",
+      "avg": 13.0,
+      "std": 4.0,
+      "min": -4.9,
+      "max": 30.0
+    },
+    {
+      "name": "Milwaukee",
+      "avg": 8.9,
+      "std": 4.0,
+      "min": -8.4,
+      "max": 27.5
+    },
+    {
+      "name": "Minneapolis",
+      "avg": 7.8,
+      "std": 4.0,
+      "min": -9.1,
+      "max": 25.3
+    },
+    {
+      "name": "Minsk",
+      "avg": 6.7,
+      "std": 4.0,
+      "min": -11.1,
+      "max": 24.9
+    },
+    {
+      "name": "Mogadishu",
+      "avg": 27.1,
+      "std": 4.0,
+      "min": 10.2,
+      "max": 44.3
+    },
+    {
+      "name": "Mombasa",
+      "avg": 26.3,
+      "std": 4.0,
+      "min": 8.2,
+      "max": 43.0
+    },
+    {
+      "name": "Monaco",
+      "avg": 16.4,
+      "std": 4.0,
+      "min": 0.1,
+      "max": 32.5
+    },
+    {
+      "name": "Moncton",
+      "avg": 6.1,
+      "std": 4.0,
+      "min": -10.3,
+      "max": 24.6
+    },
+    {
+      "name": "Monterrey",
+      "avg": 22.3,
+      "std": 4.0,
+      "min": 3.4,
+      "max": 39.2
+    },
+    {
+      "name": "Montreal",
+      "avg": 6.8,
+      "std": 4.0,
+      "min": -11.5,
+      "max": 22.1
+    },
+    {
+      "name": "Moscow",
+      "avg": 5.8,
+      "std": 4.0,
+      "min": -11.8,
+      "max": 22.5
+    },
+    {
+      "name": "Mumbai",
+      "avg": 27.1,
+      "std": 4.0,
+      "min": 10.1,
+      "max": 45.1
+    },
+    {
+      "name": "Murmansk",
+      "avg": 0.6,
+      "std": 4.0,
+      "min": -17.2,
+      "max": 21.2
+    },
+    {
+      "name": "Muscat",
+      "avg": 28.0,
+      "std": 4.0,
+      "min": 10.8,
+      "max": 45.1
+    },
+    {
+      "name": "Mzuzu",
+      "avg": 17.7,
+      "std": 4.0,
+      "min": 1.0,
+      "max": 35.8
+    },
+    {
+      "name": "N'Djamena",
+      "avg": 28.3,
+      "std": 4.0,
+      "min": 11.2,
+      "max": 45.4
+    },
+    {
+      "name": "Naha",
+      "avg": 23.1,
+      "std": 4.0,
+      "min": 6.3,
+      "max": 39.2
+    },
+    {
+      "name": "Nairobi",
+      "avg": 17.8,
+      "std": 4.0,
+      "min": 1.7,
+      "max": 35.0
+    },
+    {
+      "name": "Nakhon Ratchasima",
+      "avg": 27.3,
+      "std": 4.0,
+      "min": 9.6,
+      "max": 43.1
+    },
+    {
+      "name": "Napier",
+      "avg": 14.6,
+      "std": 4.0,
+      "min": -6.5,
+      "max": 36.0
+    },
+    {
+      "name": "Napoli",
+      "avg": 15.9,
+      "std": 4.0,
+      "min": -0.7,
+      "max": 33.0
+    },
+    {
+      "name": "Nashville",
+      "avg": 15.4,
+      "std": 4.0,
+      "min": -2.9,
+      "max": 32.6
+    },
+    {
+      "name": "Nassau",
+      "avg": 24.6,
+      "std": 4.0,
+      "min": 7.4,
+      "max": 41.1
+    },
+    {
+      "name": "Ndola",
+      "avg": 20.3,
+      "std": 4.0,
+      "min": 3.3,
+      "max": 37.0
+    },
+    {
+      "name": "New Delhi",
+      "avg": 25.0,
+      "std": 4.0,
+      "min": 7.8,
+      "max": 41.9
+    },
+    {
+      "name": "New Orleans",
+      "avg": 20.7,
+      "std": 4.0,
+      "min": 4.2,
+      "max": 36.2
+    },
+    {
+      "name": "New York City",
+      "avg": 12.9,
+      "std": 4.0,
+      "min": -4.5,
+      "max": 29.1
+    },
+    {
+      "name": "Ngaoundéré",
+      "avg": 22.0,
+      "std": 4.0,
+      "min": 4.3,
+      "max": 39.9
+    },
+    {
+      "name": "Niamey",
+      "avg": 29.3,
+      "std": 4.0,
+      "min": 11.5,
+      "max": 45.9
+    },
+    {
+      "name": "Nicosia",
+      "avg": 19.7,
+      "std": 4.0,
+      "min": 3.9,
+      "max": 36.4
+    },
+    {
+      "name": "Niigata",
+      "avg": 13.9,
+      "std": 4.0,
+      "min": -3.1,
+      "max": 30.5
+    },
+    {
+      "name": "Nouadhibou",
+      "avg": 21.3,
+      "std": 4.0,
+      "min": 4.7,
+      "max": 39.7
+    },
+    {
+      "name": "Nouakchott",
+      "avg": 25.7,
+      "std": 4.0,
+      "min": 9.0,
+      "max": 42.4
+    },
+    {
+      "name": "Novosibirsk",
+      "avg": 1.7,
+      "std": 4.0,
+      "min": -17.1,
+      "max": 18.0
+    },
+    {
+      "name": "Nuuk",
+      "avg": -1.4,
+      "std": 4.0,
+      "min": -18.3,
+      "max": 16.1
+    },
+    {
+      "name": "Odesa",
+      "avg": 10.7,
+      "std": 4.0,
+      "min": -5.7,
+      "max": 30.0
+    },
+    {
+      "name": "Odienné",
+      "avg": 26.0,
+      "std": 4.0,
+      "min": 8.9,
+      "max": 43.5
+    },
+    {
+      "name": "Oklahoma City",
+      "avg": 15.9,
+      "std": 4.0,
+      "min": -1.0,
+      "max": 33.3
+    },
+    {
+      "name": "Omaha",
+      "avg": 10.6,
+      "std": 4.0,
+      "min": -7.6,
+      "max": 28.5
+    },
+    {
+      "name": "Oranjestad",
+      "avg": 28.1,
+      "std": 4.0,
+      "min": 10.3,
+      "max": 46.3
+    },
+    {
+      "name": "Oslo",
+      "avg": 5.7,
+      "std": 4.0,
+      "min": -12.9,
+      "max": 21.9
+    },
+    {
+      "name": "Ottawa",
+      "avg": 6.6,
+      "std": 4.0,
+      "min": -11.1,
+      "max": 24.3
+    },
+    {
+      "name": "Ouagadougou",
+      "avg": 28.3,
+      "std": 4.0,
+      "min": 9.5,
+      "max": 45.5
+    },
+    {
+      "name": "Ouahigouya",
+      "avg": 28.6,
+      "std": 4.0,
+      "min": 9.1,
+      "max": 46.5
+    },
+    {
+      "name": "Ouarzazate",
+      "avg": 18.9,
+      "std": 4.0,
+      "min": 2.2,
+      "max": 36.3
+    },
+    {
+      "name": "Oulu",
+      "avg": 2.7,
+      "std": 4.0,
+      "min": -15.4,
+      "max": 19.0
+    },
+    {
+      "name": "Palembang",
+      "avg": 27.3,
+      "std": 4.0,
+      "min": 9.4,
+      "max": 45.1
+    },
+    {
+      "name": "Palermo",
+      "avg": 18.5,
+      "std": 4.0,
+      "min": -1.2,
+      "max": 35.4
+    },
+    {
+      "name": "Palm Springs",
+      "avg": 24.5,
+      "std": 4.0,
+      "min": 6.2,
+      "max": 40.8
+    },
+    {
+      "name": "Palmerston North",
+      "avg": 13.2,
+      "std": 4.0,
+      "min": -5.0,
+      "max": 32.0
+    },
+    {
+      "name": "Panama City",
+      "avg": 28.0,
+      "std": 4.0,
+      "min": 11.7,
+      "max": 46.0
+    },
+    {
+      "name": "Parakou",
+      "avg": 26.8,
+      "std": 4.0,
+      "min": 9.2,
+      "max": 43.8
+    },
+    {
+      "name": "Paris",
+      "avg": 12.3,
+      "std": 4.0,
+      "min": -5.6,
+      "max": 29.3
+    },
+    {
+      "name": "Perth",
+      "avg": 18.7,
+      "std": 4.0,
+      "min": 2.1,
+      "max": 35.6
+    },
+    {
+      "name": "Petropavlovsk-Kamchatsky",
+      "avg": 1.9,
+      "std": 4.0,
+      "min": -15.1,
+      "max": 20.3
+    },
+    {
+      "name": "Philadelphia",
+      "avg": 13.2,
+      "std": 4.0,
+      "min": -5.4,
+      "max": 29.7
+    },
+    {
+      "name": "Phnom Penh",
+      "avg": 28.3,
+      "std": 4.0,
+      "min": 12.2,
+      "max": 47.8
+    },
+    {
+      "name": "Phoenix",
+      "avg": 23.9,
+      "std": 4.0,
+      "min": 5.3,
+      "max": 41.8
+    },
+    {
+      "name": "Pittsburgh",
+      "avg": 10.8,
+      "std": 4.0,
+      "min": -6.3,
+      "max": 28.5
+    },
+    {
+      "name": "Podgorica",
+      "avg": 15.3,
+      "std": 4.0,
+      "min": -3.5,
+      "max": 33.6
+    },
+    {
+      "name": "Pointe-Noire",
+      "avg": 26.1,
+      "std": 4.0,
+      "min": 7.0,
+      "max": 44.0
+    },
+    {
+      "name": "Pontianak",
+      "avg": 27.7,
+      "std": 4.0,
+      "min": 10.4,
+      "max": 43.7
+    },
+    {
+      "name": "Port Moresby",
+      "avg": 26.9,
+      "std": 4.0,
+      "min": 10.6,
+      "max": 44.9
+    },
+    {
+      "name": "Port Sudan",
+      "avg": 28.4,
+      "std": 4.0,
+      "min": 10.6,
+      "max": 45.9
+    },
+    {
+      "name": "Port Vila",
+      "avg": 24.3,
+      "std": 4.0,
+      "min": 6.2,
+      "max": 40.9
+    },
+    {
+      "name": "Port-Gentil",
+      "avg": 26.0,
+      "std": 4.0,
+      "min": 9.6,
+      "max": 43.2
+    },
+    {
+      "name": "Portland {OR}",
+      "avg": 12.4,
+      "std": 4.0,
+      "min": -4.8,
+      "max": 28.3
+    },
+    {
+      "name": "Porto",
+      "avg": 15.7,
+      "std": 4.0,
+      "min": -1.9,
+      "max": 32.6
+    },
+    {
+      "name": "Prague",
+      "avg": 8.4,
+      "std": 4.0,
+      "min": -8.7,
+      "max": 25.9
+    },
+    {
+      "name": "Praia",
+      "avg": 24.4,
+      "std": 4.0,
+      "min": 8.0,
+      "max": 43.8
+    },
+    {
+      "name": "Pretoria",
+      "avg": 18.2,
+      "std": 4.0,
+      "min": 0.5,
+      "max": 34.1
+    },
+    {
+      "name": "Pyongyang",
+      "avg": 10.8,
+      "std": 4.0,
+      "min": -6.3,
+      "max": 27.8
+    },
+    {
+      "name": "Rabat",
+      "avg": 17.2,
+      "std": 4.0,
+      "min": -2.7,
+      "max": 34.5
+    },
+    {
+      "name": "Rangpur",
+      "avg": 24.4,
+      "std": 4.0,
+      "min": 6.7,
+      "max": 41.4
+    },
+    {
+      "name": "Reggane",
+      "avg": 28.3,
+      "std": 4.0,
+      "min": 9.6,
+      "max": 45.0
+    },
+    {
+      "name": "Reykjavík",
+      "avg": 4.3,
+      "std": 4.0,
+      "min": -12.9,
+      "max": 22.0
+    },
+    {
+      "name": "Riga",
+      "avg": 6.2,
+      "std": 4.0,
+      "min": -10.8,
+      "max": 22.9
+    },
+    {
+      "name": "Riyadh",
+      "avg": 26.0,
+      "std": 4.0,
+      "min": 7.4,
+      "max": 42.9
+    },
+    {
+      "name": "Rome",
+      "avg": 15.2,
+      "std": 4.0,
+      "min": -4.9,
+      "max": 31.1
+    },
+    {
+      "name": "Roseau",
+      "avg": 26.2,
+      "std": 4.0,
+      "min": 6.9,
+      "max": 44.6
+    },
+    {
+      "name": "Rostov-on-Don",
+      "avg": 9.9,
+      "std": 4.0,
+      "min": -7.1,
+      "max": 26.6
+    },
+    {
+      "name": "Sacramento",
+      "avg": 16.3,
+      "std": 4.0,
+      "min": -1.8,
+      "max": 33.9
+    },
+    {
+      "name": "Saint Petersburg",
+      "avg": 5.8,
+      "std": 4.0,
+      "min": -13.7,
+      "max": 22.1
+    },
+    {
+      "name": "Saint-Pierre",
+      "avg": 5.7,
+      "std": 4.0,
+      "min": -14.5,
+      "max": 22.3
+    },
+    {
+      "name": "Salt Lake City",
+      "avg": 11.6,
+      "std": 4.0,
+      "min": -6.0,
+      "max": 28.3
+    },
+    {
+      "name": "San Antonio",
+      "avg": 20.8,
+      "std": 4.0,
+      "min": 3.5,
+      "max": 41.0
+    },
+    {
+      "name": "San Diego",
+      "avg": 17.8,
+      "std": 4.0,
+      "min": 1.6,
+      "max": 34.1
+    },
+    {
+      "name": "San Francisco",
+      "avg": 14.6,
+      "std": 4.0,
+      "min": -3.0,
+      "max": 30.7
+    },
+    {
+      "name": "San Jose",
+      "avg": 16.4,
+      "std": 4.0,
+      "min": -0.4,
+      "max": 34.7
+    },
+    {
+      "name": "San José",
+      "avg": 22.6,
+      "std": 4.0,
+      "min": 4.8,
+      "max": 39.6
+    },
+    {
+      "name": "San Juan",
+      "avg": 27.2,
+      "std": 4.0,
+      "min": 8.0,
+      "max": 44.8
+    },
+    {
+      "name": "San Salvador",
+      "avg": 23.1,
+      "std": 4.0,
+      "min": 6.9,
+      "max": 40.0
+    },
+    {
+      "name": "Sana'a",
+      "avg": 20.0,
+      "std": 4.0,
+      "min": -0.4,
+      "max": 37.3
+    },
+    {
+      "name": "Santo Domingo",
+      "avg": 25.9,
+      "std": 4.0,
+      "min": 6.9,
+      "max": 41.8
+    },
+    {
+      "name": "Sapporo",
+      "avg": 8.9,
+      "std": 4.0,
+      "min": -9.2,
+      "max": 26.0
+    },
+    {
+      "name": "Sarajevo",
+      "avg": 10.1,
+      "std": 4.0,
+      "min": -5.9,
+      "max": 28.4
+    },
+    {
+      "name": "Saskatoon",
+      "avg": 3.3,
+      "std": 4.0,
+      "min": -14.4,
+      "max": 25.3
+    },
+    {
+      "name": "Seattle",
+      "avg": 11.3,
+      "std": 4.0,
+      "min": -9.6,
+      "max": 30.2
+    },
+    {
+      "name": "Seoul",
+      "avg": 12.5,
+      "std": 4.0,
+      "min": -4.4,
+      "max": 29.7
+    },
+    {
+      "name": "Seville",
+      "avg": 19.2,
+      "std": 4.0,
+      "min": -0.3,
+      "max": 36.1
+    },
+    {
+      "name": "Shanghai",
+      "avg": 16.7,
+      "std": 4.0,
+      "min": -2.5,
+      "max": 33.8
+    },
+    {
+      "name": "Singapore",
+      "avg": 27.0,
+      "std": 4.0,
+      "min": 10.6,
+      "max": 43.1
+    },
+    {
+      "name": "Skopje",
+      "avg": 12.4,
+      "std": 4.0,
+      "min": -4.8,
+      "max": 28.5
+    },
+    {
+      "name": "Sochi",
+      "avg": 14.2,
+      "std": 4.0,
+      "min": -4.9,
+      "max": 32.5
+    },
+    {
+      "name": "Sofia",
+      "avg": 10.6,
+      "std": 4.0,
+      "min": -6.9,
+      "max": 27.1
+    },
+    {
+      "name": "Sokoto",
+      "avg": 28.0,
+      "std": 4.0,
+      "min": 12.2,
+      "max": 44.9
+    },
+    {
+      "name": "Split",
+      "avg": 16.1,
+      "std": 4.0,
+      "min": -2.0,
+      "max": 33.0
+    },
+    {
+      "name": "St. John's",
+      "avg": 5.0,
+      "std": 4.0,
+      "min": -12.1,
+      "max": 22.5
+    },
+    {
+      "name": "St. Louis",
+      "avg": 13.9,
+      "std": 4.0,
+      "min": -3.8,
+      "max": 32.9
+    },
+    {
+      "name": "Stockholm",
+      "avg": 6.6,
+      "std": 4.0,
+      "min": -10.7,
+      "max": 24.9
+    },
+    {
+      "name": "Surabaya",
+      "avg": 27.1,
+      "std": 4.0,
+      "min": 9.7,
+      "max": 44.6
+    },
+    {
+      "name": "Suva",
+      "avg": 25.6,
+      "std": 4.0,
+      "min": 9.6,
+      "max": 43.5
+    },
+    {
+      "name": "Suwałki",
+      "avg": 7.2,
+      "std": 4.0,
+      "min": -12.4,
+      "max": 22.5
+    },
+    {
+      "name": "Sydney",
+      "avg": 17.7,
+      "std": 4.0,
+      "min": -1.6,
+      "max": 35.2
+    },
+    {
+      "name": "Ségou",
+      "avg": 28.0,
+      "std": 4.0,
+      "min": 6.2,
+      "max": 44.6
+    },
+    {
+      "name": "Tabora",
+      "avg": 23.0,
+      "std": 4.0,
+      "min": 6.7,
+      "max": 40.0
+    },
+    {
+      "name": "Tabriz",
+      "avg": 12.6,
+      "std": 4.0,
+      "min": -4.6,
+      "max": 28.8
+    },
+    {
+      "name": "Taipei",
+      "avg": 23.0,
+      "std": 4.0,
+      "min": 5.5,
+      "max": 40.5
+    },
+    {
+      "name": "Tallinn",
+      "avg": 6.4,
+      "std": 4.0,
+      "min": -10.2,
+      "max": 26.0
+    },
+    {
+      "name": "Tamale",
+      "avg": 27.9,
+      "std": 4.0,
+      "min": 11.6,
+      "max": 45.7
+    },
+    {
+      "name": "Tamanrasset",
+      "avg": 21.7,
+      "std": 4.0,
+      "min": 4.4,
+      "max": 37.9
+    },
+    {
+      "name": "Tampa",
+      "avg": 22.9,
+      "std": 4.0,
+      "min": 4.6,
+      "max": 40.3
+    },
+    {
+      "name": "Tashkent",
+      "avg": 14.8,
+      "std": 4.0,
+      "min": -2.0,
+      "max": 31.7
+    },
+    {
+      "name": "Tauranga",
+      "avg": 14.8,
+      "std": 4.0,
+      "min": -1.5,
+      "max": 32.4
+    },
+    {
+      "name": "Tbilisi",
+      "avg": 12.9,
+      "std": 4.0,
+      "min": -8.0,
+      "max": 30.2
+    },
+    {
+      "name": "Tegucigalpa",
+      "avg": 21.7,
+      "std": 4.0,
+      "min": 4.2,
+      "max": 38.5
+    },
+    {
+      "name": "Tehran",
+      "avg": 17.0,
+      "std": 4.0,
+      "min": 0.5,
+      "max": 34.3
+    },
+    {
+      "name": "Tel Aviv",
+      "avg": 20.0,
+      "std": 4.0,
+      "min": 1.2,
+      "max": 36.9
+    },
+    {
+      "name": "Thessaloniki",
+      "avg": 16.0,
+      "std": 4.0,
+      "min": -1.0,
+      "max": 33.9
+    },
+    {
+      "name": "Thiès",
+      "avg": 24.0,
+      "std": 4.0,
+      "min": 5.6,
+      "max": 43.3
+    },
+    {
+      "name": "Tijuana",
+      "avg": 17.8,
+      "std": 4.0,
+      "min": -0.1,
+      "max": 34.2
+    },
+    {
+      "name": "Timbuktu",
+      "avg": 28.0,
+      "std": 4.0,
+      "min": 12.1,
+      "max": 46.2
+    },
+    {
+      "name": "Tirana",
+      "avg": 15.2,
+      "std": 4.0,
+      "min": -1.1,
+      "max": 31.7
+    },
+    {
+      "name": "Toamasina",
+      "avg": 23.4,
+      "std": 4.0,
+      "min": 4.9,
+      "max": 41.7
+    },
+    {
+      "name": "Tokyo",
+      "avg": 15.4,
+      "std": 4.0,
+      "min": -0.6,
+      "max": 31.7
+    },
+    {
+      "name": "Toliara",
+      "avg": 24.1,
+      "std": 4.0,
+      "min": 7.5,
+      "max": 42.7
+    },
+    {
+      "name": "Toluca",
+      "avg": 12.4,
+      "std": 4.0,
+      "min": -4.3,
+      "max": 29.1
+    },
+    {
+      "name": "Toronto",
+      "avg": 9.4,
+      "std": 4.0,
+      "min": -8.6,
+      "max": 26.5
+    },
+    {
+      "name": "Tripoli",
+      "avg": 20.0,
+      "std": 4.0,
+      "min": 1.0,
+      "max": 38.0
+    },
+    {
+      "name": "Tromsø",
+      "avg": 2.9,
+      "std": 4.0,
+      "min": -14.1,
+      "max": 19.2
+    },
+    {
+      "name": "Tucson",
+      "avg": 20.9,
+      "std": 4.0,
+      "min": 4.4,
+      "max": 40.1
+    },
+    {
+      "name": "Tunis",
+      "avg": 18.4,
+      "std": 4.0,
+      "min": 1.3,
+      "max": 37.7
+    },
+    {
+      "name": "Ulaanbaatar",
+      "avg": -0.4,
+      "std": 4.0,
+      "min": -19.2,
+      "max": 16.4
+    },
+    {
+      "name": "Upington",
+      "avg": 20.4,
+      "std": 4.0,
+      "min": 3.5,
+      "max": 37.5
+    },
+    {
+      "name": "Vaduz",
+      "avg": 10.1,
+      "std": 4.0,
+      "min": -8.3,
+      "max": 26.4
+    },
+    {
+      "name": "Valencia",
+      "avg": 18.3,
+      "std": 4.0,
+      "min": 0.2,
+      "max": 34.1
+    },
+    {
+      "name": "Valletta",
+      "avg": 18.8,
+      "std": 4.0,
+      "min": 1.4,
+      "max": 35.5
+    },
+    {
+      "name": "Vancouver",
+      "avg": 10.4,
+      "std": 4.0,
+      "min": -7.0,
+      "max": 28.9
+    },
+    {
+      "name": "Veracruz",
+      "avg": 25.4,
+      "std": 4.0,
+      "min": 7.8,
+      "max": 42.7
+    },
+    {
+      "name": "Vienna",
+      "avg": 10.4,
+      "std": 4.0,
+      "min": -6.4,
+      "max": 27.8
+    },
+    {
+      "name": "Vientiane",
+      "avg": 25.9,
+      "std": 4.0,
+      "min": 8.3,
+      "max": 44.1
+    },
+    {
+      "name": "Villahermosa",
+      "avg": 27.1,
+      "std": 4.0,
+      "min": 10.3,
+      "max": 43.2
+    },
+    {
+      "name": "Vilnius",
+      "avg": 6.0,
+      "std": 4.0,
+      "min": -10.9,
+      "max": 22.9
+    },
+    {
+      "name": "Virginia Beach",
+      "avg": 15.8,
+      "std": 4.0,
+      "min": -2.2,
+      "max": 33.9
+    },
+    {
+      "name": "Vladivostok",
+      "avg": 4.9,
+      "std": 4.0,
+      "min": -12.9,
+      "max": 22.0
+    },
+    {
+      "name": "Warsaw",
+      "avg": 8.5,
+      "std": 4.0,
+      "min": -10.6,
+      "max": 26.3
+    },
+    {
+      "name": "Washington, D.C.",
+      "avg": 14.6,
+      "std": 4.0,
+      "min": -2.4,
+      "max": 31.4
+    },
+    {
+      "name": "Wau",
+      "avg": 27.8,
+      "std": 4.0,
+      "min": 11.2,
+      "max": 46.3
+    },
+    {
+      "name": "Wellington",
+      "avg": 12.9,
+      "std": 4.0,
+      "min": -5.0,
+      "max": 30.4
+    },
+    {
+      "name": "Whitehorse",
+      "avg": -0.1,
+      "std": 4.0,
+      "min": -18.8,
+      "max": 17.2
+    },
+    {
+      "name": "Wichita",
+      "avg": 13.9,
+      "std": 4.0,
+      "min": -3.3,
+      "max": 31.4
+    },
+    {
+      "name": "Willemstad",
+      "avg": 28.0,
+      "std": 4.0,
+      "min": 9.9,
+      "max": 45.7
+    },
+    {
+      "name": "Winnipeg",
+      "avg": 3.0,
+      "std": 4.0,
+      "min": -13.4,
+      "max": 19.7
+    },
+    {
+      "name": "Wrocław",
+      "avg": 9.6,
+      "std": 4.0,
+      "min": -7.2,
+      "max": 29.1
+    },
+    {
+      "name": "Xi'an",
+      "avg": 14.1,
+      "std": 4.0,
+      "min": -3.8,
+      "max": 31.5
+    },
+    {
+      "name": "Yakutsk",
+      "avg": -8.8,
+      "std": 4.0,
+      "min": -26.2,
+      "max": 8.7
+    },
+    {
+      "name": "Yangon",
+      "avg": 27.5,
+      "std": 4.0,
+      "min": 10.5,
+      "max": 44.8
+    },
+    {
+      "name": "Yaoundé",
+      "avg": 23.8,
+      "std": 4.0,
+      "min": 6.7,
+      "max": 40.4
+    },
+    {
+      "name": "Yellowknife",
+      "avg": -4.3,
+      "std": 4.0,
+      "min": -20.5,
+      "max": 12.0
+    },
+    {
+      "name": "Yerevan",
+      "avg": 12.4,
+      "std": 4.0,
+      "min": -4.8,
+      "max": 28.9
+    },
+    {
+      "name": "Yinchuan",
+      "avg": 9.0,
+      "std": 4.0,
+      "min": -9.2,
+      "max": 25.9
+    },
+    {
+      "name": "Zagreb",
+      "avg": 10.7,
+      "std": 4.0,
+      "min": -6.0,
+      "max": 28.3
+    },
+    {
+      "name": "Zanzibar City",
+      "avg": 26.0,
+      "std": 4.0,
+      "min": 9.6,
+      "max": 44.5
+    },
+    {
+      "name": "Zürich",
+      "avg": 9.3,
+      "std": 4.0,
+      "min": -8.9,
+      "max": 26.9
+    },
+    {
+      "name": "Ürümqi",
+      "avg": 7.4,
+      "std": 4.0,
+      "min": -11.9,
+      "max": 23.3
+    },
+    {
+      "name": "İzmir",
+      "avg": 17.9,
+      "std": 4.0,
+      "min": 1.6,
+      "max": 35.0
+    }
+  ]
+}

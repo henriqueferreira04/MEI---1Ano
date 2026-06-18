@@ -1,0 +1,4 @@
+/Users/hemapefe/Desktop/2S/CLE/P/class1/weather-stations/build/CMakeFiles/cle-ws.dir
+/Users/hemapefe/Desktop/2S/CLE/P/class1/weather-stations/build/CMakeFiles/cle-samples.dir
+/Users/hemapefe/Desktop/2S/CLE/P/class1/weather-stations/build/CMakeFiles/edit_cache.dir
+/Users/hemapefe/Desktop/2S/CLE/P/class1/weather-stations/build/CMakeFiles/rebuild_cache.dir

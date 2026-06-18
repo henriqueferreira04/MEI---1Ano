@@ -1,0 +1,28 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: nginx-pv-volume
+  labels:
+    type: local
+spec:
+  storageClassName: local-path
+  capacity:
+    storage: 1Gi
+  accessModes:
+    - ReadWriteOnce
+  hostPath:
+    path: "/volumes/nginx-proxy"
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: nginx-static-pvc
+  namespace: namespace 
+spec:
+  accessModes:
+    - ReadWriteOnce
+  #storageClassName: longhorn
+  storageClassName: local-path
+  resources:
+    requests:
+      storage: 10Mi

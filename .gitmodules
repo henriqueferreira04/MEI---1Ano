@@ -1,0 +1,33 @@
+[submodule "2S/AS/P/opentelemetry-demo"]
+	path = 2S/AS/P/opentelemetry-demo
+	url = https://github.com/open-telemetry/opentelemetry-demo.git
+[submodule "2S/AS/Projects/final/nopCommerce"]
+	path = 2S/AS/Projects/final/nopCommerce
+	url = https://github.com/AS-Group-Final-Project/nopCommerce.git
+[submodule "2S/AS/Projects/nopCommerce"]
+	path = 2S/AS/Projects/nopCommerce
+	url = https://github.com/henriqueferreira04/nopCommerce.git
+[submodule "2S/CLE/2526-tp1-group03"]
+	path = 2S/CLE/2526-tp1-group03
+	url = https://github.com/ua-cle/2526-tp1-group03.git
+[submodule "2S/CLE/2526-tp2-group03"]
+	path = 2S/CLE/2526-tp2-group03
+	url = https://github.com/ua-cle/2526-tp2-group03.git
+[submodule "2S/CLE/cle-3rdproject-cuda"]
+	path = 2S/CLE/cle-3rdproject-cuda
+	url = https://github.com/henriqueferreira04/cle-3rdproject-cuda.git
+[submodule "2S/ED/assignment-1-individual-work-henriqueferreira04"]
+	path = 2S/ED/assignment-1-individual-work-henriqueferreira04
+	url = https://github.com/detiuaveiro/assignment-1-individual-work-henriqueferreira04.git
+[submodule "2S/ED/assignment-2-pair-work-ed2026_g06"]
+	path = 2S/ED/assignment-2-pair-work-ed2026_g06
+	url = https://github.com/detiuaveiro/assignment-2-pair-work-ed2026_g06.git
+[submodule "2S/GIC/sre-project-grupo-vintage-sound"]
+	path = 2S/GIC/sre-project-grupo-vintage-sound
+	url = https://github.com/detiuaveiro/sre-project-grupo-vintage-sound
+[submodule "2S/SD/2526-tp1-group02"]
+	path = 2S/SD/2526-tp1-group02
+	url = https://github.com/ua-sd/2526-tp1-group02.git
+[submodule "2S/SD/2526-tp2-group02"]
+	path = 2S/SD/2526-tp2-group02
+	url = https://github.com/ua-sd/2526-tp2-group02.git

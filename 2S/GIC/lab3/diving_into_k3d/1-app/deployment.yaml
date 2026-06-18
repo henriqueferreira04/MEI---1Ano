@@ -1,0 +1,31 @@
+---
+apiVersion: apps/v1
+#kind: DaemonSet
+#kind: ReplicaSet
+kind: Deployment
+metadata:
+  name: app
+  namespace: namespace
+spec:
+  selector:
+    matchLabels:
+      app: app
+  template:
+    metadata:
+      labels:
+        app: app
+        course: gic
+        year: "2024"
+    spec:
+      containers:
+      - name: app
+        image: k3d-myregistry.localhost:5000/app:v1
+        resources:
+          requests:
+            memory: "32Mi"
+            cpu: "10m"
+          limits:
+            memory: "128Mi"
+            cpu: "500m"
+        ports:
+        - containerPort: 8080

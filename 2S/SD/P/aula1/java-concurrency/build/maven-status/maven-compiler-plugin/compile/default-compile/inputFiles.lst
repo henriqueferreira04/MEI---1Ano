@@ -1,0 +1,13 @@
+/Users/hemapefe/Desktop/2S/SD/aula1/java-concurrency/src/main/java/deti/sd/ex1/AtomicCounter.java
+/Users/hemapefe/Desktop/2S/SD/aula1/java-concurrency/src/main/java/deti/sd/ex1/Counter.java
+/Users/hemapefe/Desktop/2S/SD/aula1/java-concurrency/src/main/java/deti/sd/ex1/CounterTest.java
+/Users/hemapefe/Desktop/2S/SD/aula1/java-concurrency/src/main/java/deti/sd/ex1/MutexCounter.java
+/Users/hemapefe/Desktop/2S/SD/aula1/java-concurrency/src/main/java/deti/sd/ex1/UnsafeCounter.java
+/Users/hemapefe/Desktop/2S/SD/aula1/java-concurrency/src/main/java/deti/sd/ex2/Gateway.java
+/Users/hemapefe/Desktop/2S/SD/aula1/java-concurrency/src/main/java/deti/sd/ex2/HeavyTask.java
+/Users/hemapefe/Desktop/2S/SD/aula1/java-concurrency/src/main/java/deti/sd/ex3/DataPacket.java
+/Users/hemapefe/Desktop/2S/SD/aula1/java-concurrency/src/main/java/deti/sd/ex3/DataProcessor.java
+/Users/hemapefe/Desktop/2S/SD/aula1/java-concurrency/src/main/java/deti/sd/ex3/DistributedBufferSystem.java
+/Users/hemapefe/Desktop/2S/SD/aula1/java-concurrency/src/main/java/deti/sd/ex3/NetworkProducer.java
+/Users/hemapefe/Desktop/2S/SD/aula1/java-concurrency/src/main/java/deti/sd/ex4/DistributedWorker.java
+/Users/hemapefe/Desktop/2S/SD/aula1/java-concurrency/src/main/java/deti/sd/ex4/SystemController.java

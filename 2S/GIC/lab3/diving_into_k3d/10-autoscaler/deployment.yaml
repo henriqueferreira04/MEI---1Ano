@@ -1,0 +1,122 @@
+
+# Create nginx deployment
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx
+  namespace: namespace
+spec:
+  replicas: 10
+  selector:
+    matchLabels:
+      app: nginx
+  strategy: {}
+  template:
+    metadata:
+      labels:
+        app: nginx
+    spec:
+      containers:
+        - image: k3d-myregistry.localhost:5000/nginx-proxy
+          name: nginx
+          ports:
+            - containerPort: 80
+          resources:
+            requests:
+              memory: "32Mi"
+              cpu: "250m"
+            limits:
+              memory: "32Mi"
+              cpu: "500m"
+      restartPolicy: Always
+      affinity:
+        podAntiAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+          - topologyKey: kubernetes.io/hostname
+            labelSelector:
+              matchLabels:
+                app: nginx
+
+# Create App deployment
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: app
+  namespace: namespace
+spec:
+  replicas: 10
+  selector:
+    matchLabels:
+      app: app
+  template:
+    metadata:
+      labels:
+        app: app
+    spec:
+      containers:
+      - name: app
+        image: k3d-myregistry.localhost:5000/app
+        ports:
+          - containerPort: 8080
+      affinity:
+        podAffinity:
+           requiredDuringSchedulingIgnoredDuringExecution:
+             - topologyKey: kubernetes.io/hostname
+               labelSelector:
+                 matchLabels:
+                     app: nginx
+
+# Create Service for APP
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: app
+  namespace: namespace
+spec:
+  ports:
+  - port: 8080
+    targetPort: 8080
+  selector:
+    app: app
+
+# Create Service for APP
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: nginx
+  namespace: namespace
+spec:
+  ports:
+  - port: 80
+    targetPort: 80
+  selector:
+    app: nginx
+
+# Configure Traefik
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: app-k3d
+  namespace: namespace
+  annotations:
+    spec.ingressClassName: treafik
+    traefik.ingress.kubernetes.io/frontend-entry-points: http,https
+    traefik.ingress.kubernetes.io/redirect-entry-point: https
+    traefik.ingress.kubernetes.io/redirect-permanent: "true"
+spec:
+  rules:
+  - host: app-namespace.k3d
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: nginx
+            port: 
+              number: 80

@@ -1,0 +1,7 @@
+/Users/hemapefe/Desktop/2S/CLE/P/mpi-basic/build/CMakeFiles/hello.dir
+/Users/hemapefe/Desktop/2S/CLE/P/mpi-basic/build/CMakeFiles/error.dir
+/Users/hemapefe/Desktop/2S/CLE/P/mpi-basic/build/CMakeFiles/error-return.dir
+/Users/hemapefe/Desktop/2S/CLE/P/mpi-basic/build/CMakeFiles/sendRecData.dir
+/Users/hemapefe/Desktop/2S/CLE/P/mpi-basic/build/CMakeFiles/alive_well.dir
+/Users/hemapefe/Desktop/2S/CLE/P/mpi-basic/build/CMakeFiles/edit_cache.dir
+/Users/hemapefe/Desktop/2S/CLE/P/mpi-basic/build/CMakeFiles/rebuild_cache.dir
